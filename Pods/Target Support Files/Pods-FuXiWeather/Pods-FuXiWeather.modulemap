@@ -1,0 +1,6 @@
+framework module Pods_FuXiWeather {
+  umbrella header "Pods-FuXiWeather-umbrella.h"
+
+  export *
+  module * { export * }
+}
